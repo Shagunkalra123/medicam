@@ -1,0 +1,33 @@
+[27-Aug-2022 14:16:05 UTC] PHP Fatal error:  Allowed memory size of 1610612736 bytes exhausted (tried to allocate 83886080 bytes) in phar:///usr/local/bin/composer1.phar/src/Composer/DependencyResolver/RuleSet.php on line 90
+[27-Aug-2022 14:17:16 UTC] PHP Fatal error:  Allowed memory size of 1610612736 bytes exhausted (tried to allocate 83886080 bytes) in phar:///usr/local/bin/composer1.phar/src/Composer/DependencyResolver/RuleSet.php on line 90
+[30-Aug-2022 18:24:20 UTC] PHP Fatal error:  Allowed memory size of 1610612736 bytes exhausted (tried to allocate 83886080 bytes) in phar:///usr/local/bin/composer1.phar/src/Composer/DependencyResolver/RuleSet.php on line 90
+[06-Oct-2022 18:06:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant 'App\Console\Commands\IndiamartApi' in /home/u252167702/domains/medicam.in/public_html/crm/vendor/laravel/framework/src/Illuminate/Container/Container.php:827
+Stack trace:
+#0 /home/u252167702/domains/medicam.in/public_html/crm/vendor/laravel/framework/src/Illuminate/Container/Container.php(827): ReflectionClass->newInstanceArgs(Array)
+#1 /home/u252167702/domains/medicam.in/public_html/crm/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#2 /home/u252167702/domains/medicam.in/public_html/crm/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/u252167702/domains/medicam.in/public_html/crm/vendor/laravel/framework/src/Illuminate/Container/Container.php(787): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/u252167702/doma in /home/u252167702/domains/medicam.in/public_html/crm/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 827
+[06-Oct-2022 18:07:43 UTC] PHP Fatal error:  Uncaught Error: Undefined constant 'App\Console\App\Console\Commands\IndiamartApi' in /home/u252167702/domains/medicam.in/public_html/crm/vendor/laravel/framework/src/Illuminate/Container/Container.php:827
+Stack trace:
+#0 /home/u252167702/domains/medicam.in/public_html/crm/vendor/laravel/framework/src/Illuminate/Container/Container.php(827): ReflectionClass->newInstanceArgs(Array)
+#1 /home/u252167702/domains/medicam.in/public_html/crm/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#2 /home/u252167702/domains/medicam.in/public_html/crm/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/u252167702/domains/medicam.in/public_html/crm/vendor/laravel/framework/src/Illuminate/Container/Container.php(787): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/u25 in /home/u252167702/domains/medicam.in/public_html/crm/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 827
+[06-Oct-2022 18:08:05 UTC] PHP Fatal error:  Uncaught Error: Undefined constant 'App\Console\App\Console\Commands\IndiamartApi' in /home/u252167702/domains/medicam.in/public_html/crm/vendor/laravel/framework/src/Illuminate/Container/Container.php:827
+Stack trace:
+#0 /home/u252167702/domains/medicam.in/public_html/crm/vendor/laravel/framework/src/Illuminate/Container/Container.php(827): ReflectionClass->newInstanceArgs(Array)
+#1 /home/u252167702/domains/medicam.in/public_html/crm/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#2 /home/u252167702/domains/medicam.in/public_html/crm/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/u252167702/domains/medicam.in/public_html/crm/vendor/laravel/framework/src/Illuminate/Container/Container.php(787): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/u25 in /home/u252167702/domains/medicam.in/public_html/crm/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 827
+[06-Oct-2022 18:08:30 UTC] PHP Fatal error:  Uncaught Error: Undefined constant 'App\Console\Commands\IndiamartApi' in /home/u252167702/domains/medicam.in/public_html/crm/vendor/laravel/framework/src/Illuminate/Container/Container.php:827
+Stack trace:
+#0 /home/u252167702/domains/medicam.in/public_html/crm/vendor/laravel/framework/src/Illuminate/Container/Container.php(827): ReflectionClass->newInstanceArgs(Array)
+#1 /home/u252167702/domains/medicam.in/public_html/crm/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('App\\Console\\Ker...')
+#2 /home/u252167702/domains/medicam.in/public_html/crm/vendor/laravel/framework/src/Illuminate/Container/Container.php(265): Illuminate\Container\Container->resolve('App\\Console\\Ker...', Array, false)
+#3 /home/u252167702/domains/medicam.in/public_html/crm/vendor/laravel/framework/src/Illuminate/Container/Container.php(787): Illuminate\Container\Container->Illuminate\Container\{closure}(Object(Illuminate\Foundation\Application), Array)
+#4 /home/u252167702/doma in /home/u252167702/domains/medicam.in/public_html/crm/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 827
+[06-Oct-2022 18:10:45 UTC] PHP Parse error:  syntax error, unexpected '.', expecting ';' or ',' in /home/u252167702/domains/medicam.in/public_html/crm/app/Console/Kernel.php on line 7
+[06-Oct-2022 18:10:48 UTC] PHP Parse error:  syntax error, unexpected '.', expecting ';' or ',' in /home/u252167702/domains/medicam.in/public_html/crm/app/Console/Kernel.php on line 7

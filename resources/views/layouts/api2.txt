@@ -1,0 +1,981 @@
+array (
+  'warnings' => NULL,
+  'header' => 
+  array (
+    'dimensionKeys' => 
+    array (
+      0 => 
+      array (
+        'key' => 'DAY',
+        'localizedName' => 'Day',
+        'dataType' => 'DATE',
+      ),
+    ),
+    'metrics' => 
+    array (
+      0 => 
+      array (
+        'key' => 'LISTING_IMPRESSION_SEARCH_RESULTS_PAGE',
+        'localizedName' => 'Listing impressions from the search results page',
+        'dataType' => 'NUMBER',
+      ),
+      1 => 
+      array (
+        'key' => 'LISTING_IMPRESSION_STORE',
+        'localizedName' => 'Listing impressions from your Store',
+        'dataType' => 'NUMBER',
+      ),
+      2 => 
+      array (
+        'key' => 'LISTING_IMPRESSION_TOTAL',
+        'localizedName' => 'Total listing impressions',
+        'dataType' => 'NUMBER',
+      ),
+      3 => 
+      array (
+        'key' => 'LISTING_VIEWS_SOURCE_SEARCH_RESULTS_PAGE',
+        'localizedName' => 'Views from the search results page',
+        'dataType' => 'NUMBER',
+      ),
+      4 => 
+      array (
+        'key' => 'LISTING_VIEWS_SOURCE_STORE',
+        'localizedName' => 'Views from your Store',
+        'dataType' => 'NUMBER',
+      ),
+      5 => 
+      array (
+        'key' => 'LISTING_VIEWS_SOURCE_DIRECT',
+        'localizedName' => 'Direct views',
+        'dataType' => 'NUMBER',
+      ),
+      6 => 
+      array (
+        'key' => 'LISTING_VIEWS_TOTAL',
+        'localizedName' => 'Total views',
+        'dataType' => 'NUMBER',
+      ),
+      7 => 
+      array (
+        'key' => 'TRANSACTION',
+        'localizedName' => 'Transaction count',
+        'dataType' => 'NUMBER',
+      ),
+      8 => 
+      array (
+        'key' => 'CLICK_THROUGH_RATE',
+        'localizedName' => 'Click through rate',
+        'dataType' => 'NUMBER',
+      ),
+      9 => 
+      array (
+        'key' => 'SALES_CONVERSION_RATE',
+        'localizedName' => 'Sales conversion rate',
+        'dataType' => 'NUMBER',
+      ),
+    ),
+  ),
+  'records' => 
+  array (
+    0 => 
+    array (
+      'dimensionValues' => 
+      array (
+        0 => 
+        array (
+          'value' => '20190710',
+          'applicable' => true,
+        ),
+      ),
+      'metricValues' => 
+      array (
+        0 => 
+        array (
+          'value' => 9137,
+          'applicable' => true,
+        ),
+        1 => 
+        array (
+          'value' => 294,
+          'applicable' => true,
+        ),
+        2 => 
+        array (
+          'value' => 9431,
+          'applicable' => true,
+        ),
+        3 => 
+        array (
+          'value' => 101,
+          'applicable' => true,
+        ),
+        4 => 
+        array (
+          'value' => 3,
+          'applicable' => true,
+        ),
+        5 => 
+        array (
+          'value' => 6,
+          'applicable' => true,
+        ),
+        6 => 
+        array (
+          'value' => 525,
+          'applicable' => true,
+        ),
+        7 => 
+        array (
+          'value' => 2,
+          'applicable' => true,
+        ),
+        8 => 
+        array (
+          'value' => 1.100000000000000088817841970012523233890533447265625,
+          'applicable' => true,
+        ),
+        9 => 
+        array (
+          'value' => 0.38000000000000000444089209850062616169452667236328125,
+          'applicable' => true,
+        ),
+      ),
+    ),
+    1 => 
+    array (
+      'dimensionValues' => 
+      array (
+        0 => 
+        array (
+          'value' => '20190711',
+          'applicable' => true,
+        ),
+      ),
+      'metricValues' => 
+      array (
+        0 => 
+        array (
+          'value' => 7490,
+          'applicable' => true,
+        ),
+        1 => 
+        array (
+          'value' => 77,
+          'applicable' => true,
+        ),
+        2 => 
+        array (
+          'value' => 7567,
+          'applicable' => true,
+        ),
+        3 => 
+        array (
+          'value' => 72,
+          'applicable' => true,
+        ),
+        4 => 
+        array (
+          'value' => 2,
+          'applicable' => true,
+        ),
+        5 => 
+        array (
+          'value' => 4,
+          'applicable' => true,
+        ),
+        6 => 
+        array (
+          'value' => 456,
+          'applicable' => true,
+        ),
+        7 => 
+        array (
+          'value' => 1,
+          'applicable' => true,
+        ),
+        8 => 
+        array (
+          'value' => 0.979999999999999982236431605997495353221893310546875,
+          'applicable' => true,
+        ),
+        9 => 
+        array (
+          'value' => 0.2200000000000000011102230246251565404236316680908203125,
+          'applicable' => true,
+        ),
+      ),
+    ),
+    2 => 
+    array (
+      'dimensionValues' => 
+      array (
+        0 => 
+        array (
+          'value' => '20190712',
+          'applicable' => true,
+        ),
+      ),
+      'metricValues' => 
+      array (
+        0 => 
+        array (
+          'value' => 7523,
+          'applicable' => true,
+        ),
+        1 => 
+        array (
+          'value' => 0,
+          'applicable' => true,
+        ),
+        2 => 
+        array (
+          'value' => 7523,
+          'applicable' => true,
+        ),
+        3 => 
+        array (
+          'value' => 77,
+          'applicable' => true,
+        ),
+        4 => 
+        array (
+          'value' => 0,
+          'applicable' => true,
+        ),
+        5 => 
+        array (
+          'value' => 7,
+          'applicable' => true,
+        ),
+        6 => 
+        array (
+          'value' => 473,
+          'applicable' => true,
+        ),
+        7 => 
+        array (
+          'value' => 2,
+          'applicable' => true,
+        ),
+        8 => 
+        array (
+          'value' => 1.020000000000000017763568394002504646778106689453125,
+          'applicable' => true,
+        ),
+        9 => 
+        array (
+          'value' => 0.419999999999999984456877655247808434069156646728515625,
+          'applicable' => true,
+        ),
+      ),
+    ),
+    3 => 
+    array (
+      'dimensionValues' => 
+      array (
+        0 => 
+        array (
+          'value' => '20190713',
+          'applicable' => true,
+        ),
+      ),
+      'metricValues' => 
+      array (
+        0 => 
+        array (
+          'value' => 7176,
+          'applicable' => true,
+        ),
+        1 => 
+        array (
+          'value' => 0,
+          'applicable' => true,
+        ),
+        2 => 
+        array (
+          'value' => 7176,
+          'applicable' => true,
+        ),
+        3 => 
+        array (
+          'value' => 78,
+          'applicable' => true,
+        ),
+        4 => 
+        array (
+          'value' => 0,
+          'applicable' => true,
+        ),
+        5 => 
+        array (
+          'value' => 4,
+          'applicable' => true,
+        ),
+        6 => 
+        array (
+          'value' => 469,
+          'applicable' => true,
+        ),
+        7 => 
+        array (
+          'value' => 2,
+          'applicable' => true,
+        ),
+        8 => 
+        array (
+          'value' => 1.0900000000000000799360577730112709105014801025390625,
+          'applicable' => true,
+        ),
+        9 => 
+        array (
+          'value' => 0.429999999999999993338661852249060757458209991455078125,
+          'applicable' => true,
+        ),
+      ),
+    ),
+    4 => 
+    array (
+      'dimensionValues' => 
+      array (
+        0 => 
+        array (
+          'value' => '20190714',
+          'applicable' => true,
+        ),
+      ),
+      'metricValues' => 
+      array (
+        0 => 
+        array (
+          'value' => 13496,
+          'applicable' => true,
+        ),
+        1 => 
+        array (
+          'value' => 391,
+          'applicable' => true,
+        ),
+        2 => 
+        array (
+          'value' => 13887,
+          'applicable' => true,
+        ),
+        3 => 
+        array (
+          'value' => 144,
+          'applicable' => true,
+        ),
+        4 => 
+        array (
+          'value' => 3,
+          'applicable' => true,
+        ),
+        5 => 
+        array (
+          'value' => 12,
+          'applicable' => true,
+        ),
+        6 => 
+        array (
+          'value' => 652,
+          'applicable' => true,
+        ),
+        7 => 
+        array (
+          'value' => 1,
+          'applicable' => true,
+        ),
+        8 => 
+        array (
+          'value' => 1.060000000000000053290705182007513940334320068359375,
+          'applicable' => true,
+        ),
+        9 => 
+        array (
+          'value' => 0.1499999999999999944488848768742172978818416595458984375,
+          'applicable' => true,
+        ),
+      ),
+    ),
+    5 => 
+    array (
+      'dimensionValues' => 
+      array (
+        0 => 
+        array (
+          'value' => '20190715',
+          'applicable' => true,
+        ),
+      ),
+      'metricValues' => 
+      array (
+        0 => 
+        array (
+          'value' => 8159,
+          'applicable' => true,
+        ),
+        1 => 
+        array (
+          'value' => 83,
+          'applicable' => true,
+        ),
+        2 => 
+        array (
+          'value' => 8242,
+          'applicable' => true,
+        ),
+        3 => 
+        array (
+          'value' => 75,
+          'applicable' => true,
+        ),
+        4 => 
+        array (
+          'value' => 1,
+          'applicable' => true,
+        ),
+        5 => 
+        array (
+          'value' => 24,
+          'applicable' => true,
+        ),
+        6 => 
+        array (
+          'value' => 507,
+          'applicable' => true,
+        ),
+        7 => 
+        array (
+          'value' => 0,
+          'applicable' => true,
+        ),
+        8 => 
+        array (
+          'value' => 0.92000000000000003996802888650563545525074005126953125,
+          'applicable' => true,
+        ),
+        9 => 
+        array (
+          'value' => 0,
+          'applicable' => true,
+        ),
+      ),
+    ),
+    6 => 
+    array (
+      'dimensionValues' => 
+      array (
+        0 => 
+        array (
+          'value' => '20190716',
+          'applicable' => true,
+        ),
+      ),
+      'metricValues' => 
+      array (
+        0 => 
+        array (
+          'value' => 10097,
+          'applicable' => true,
+        ),
+        1 => 
+        array (
+          'value' => 144,
+          'applicable' => true,
+        ),
+        2 => 
+        array (
+          'value' => 10241,
+          'applicable' => true,
+        ),
+        3 => 
+        array (
+          'value' => 109,
+          'applicable' => true,
+        ),
+        4 => 
+        array (
+          'value' => 0,
+          'applicable' => true,
+        ),
+        5 => 
+        array (
+          'value' => 13,
+          'applicable' => true,
+        ),
+        6 => 
+        array (
+          'value' => 567,
+          'applicable' => true,
+        ),
+        7 => 
+        array (
+          'value' => 6,
+          'applicable' => true,
+        ),
+        8 => 
+        array (
+          'value' => 1.060000000000000053290705182007513940334320068359375,
+          'applicable' => true,
+        ),
+        9 => 
+        array (
+          'value' => 1.060000000000000053290705182007513940334320068359375,
+          'applicable' => true,
+        ),
+      ),
+    ),
+    7 => 
+    array (
+      'dimensionValues' => 
+      array (
+        0 => 
+        array (
+          'value' => '20190717',
+          'applicable' => true,
+        ),
+      ),
+      'metricValues' => 
+      array (
+        0 => 
+        array (
+          'value' => 9833,
+          'applicable' => true,
+        ),
+        1 => 
+        array (
+          'value' => 96,
+          'applicable' => true,
+        ),
+        2 => 
+        array (
+          'value' => 9929,
+          'applicable' => true,
+        ),
+        3 => 
+        array (
+          'value' => 88,
+          'applicable' => true,
+        ),
+        4 => 
+        array (
+          'value' => 0,
+          'applicable' => true,
+        ),
+        5 => 
+        array (
+          'value' => 7,
+          'applicable' => true,
+        ),
+        6 => 
+        array (
+          'value' => 486,
+          'applicable' => true,
+        ),
+        7 => 
+        array (
+          'value' => 5,
+          'applicable' => true,
+        ),
+        8 => 
+        array (
+          'value' => 0.89000000000000001332267629550187848508358001708984375,
+          'applicable' => true,
+        ),
+        9 => 
+        array (
+          'value' => 1.0300000000000000266453525910037569701671600341796875,
+          'applicable' => true,
+        ),
+      ),
+    ),
+    8 => 
+    array (
+      'dimensionValues' => 
+      array (
+        0 => 
+        array (
+          'value' => '20190718',
+          'applicable' => true,
+        ),
+      ),
+      'metricValues' => 
+      array (
+        0 => 
+        array (
+          'value' => 11008,
+          'applicable' => true,
+        ),
+        1 => 
+        array (
+          'value' => 288,
+          'applicable' => true,
+        ),
+        2 => 
+        array (
+          'value' => 11296,
+          'applicable' => true,
+        ),
+        3 => 
+        array (
+          'value' => 106,
+          'applicable' => true,
+        ),
+        4 => 
+        array (
+          'value' => 1,
+          'applicable' => true,
+        ),
+        5 => 
+        array (
+          'value' => 8,
+          'applicable' => true,
+        ),
+        6 => 
+        array (
+          'value' => 497,
+          'applicable' => true,
+        ),
+        7 => 
+        array (
+          'value' => 1,
+          'applicable' => true,
+        ),
+        8 => 
+        array (
+          'value' => 0.9499999999999999555910790149937383830547332763671875,
+          'applicable' => true,
+        ),
+        9 => 
+        array (
+          'value' => 0.200000000000000011102230246251565404236316680908203125,
+          'applicable' => true,
+        ),
+      ),
+    ),
+    9 => 
+    array (
+      'dimensionValues' => 
+      array (
+        0 => 
+        array (
+          'value' => '20190719',
+          'applicable' => true,
+        ),
+      ),
+      'metricValues' => 
+      array (
+        0 => 
+        array (
+          'value' => 11183,
+          'applicable' => true,
+        ),
+        1 => 
+        array (
+          'value' => 416,
+          'applicable' => true,
+        ),
+        2 => 
+        array (
+          'value' => 11599,
+          'applicable' => true,
+        ),
+        3 => 
+        array (
+          'value' => 92,
+          'applicable' => true,
+        ),
+        4 => 
+        array (
+          'value' => 4,
+          'applicable' => true,
+        ),
+        5 => 
+        array (
+          'value' => 13,
+          'applicable' => true,
+        ),
+        6 => 
+        array (
+          'value' => 538,
+          'applicable' => true,
+        ),
+        7 => 
+        array (
+          'value' => 2,
+          'applicable' => true,
+        ),
+        8 => 
+        array (
+          'value' => 0.82999999999999996003197111349436454474925994873046875,
+          'applicable' => true,
+        ),
+        9 => 
+        array (
+          'value' => 0.36999999999999999555910790149937383830547332763671875,
+          'applicable' => true,
+        ),
+      ),
+    ),
+    10 => 
+    array (
+      'dimensionValues' => 
+      array (
+        0 => 
+        array (
+          'value' => '20190720',
+          'applicable' => true,
+        ),
+      ),
+      'metricValues' => 
+      array (
+        0 => 
+        array (
+          'value' => 12640,
+          'applicable' => true,
+        ),
+        1 => 
+        array (
+          'value' => 456,
+          'applicable' => true,
+        ),
+        2 => 
+        array (
+          'value' => 13096,
+          'applicable' => true,
+        ),
+        3 => 
+        array (
+          'value' => 88,
+          'applicable' => true,
+        ),
+        4 => 
+        array (
+          'value' => 5,
+          'applicable' => true,
+        ),
+        5 => 
+        array (
+          'value' => 15,
+          'applicable' => true,
+        ),
+        6 => 
+        array (
+          'value' => 612,
+          'applicable' => true,
+        ),
+        7 => 
+        array (
+          'value' => 4,
+          'applicable' => true,
+        ),
+        8 => 
+        array (
+          'value' => 0.70999999999999996447286321199499070644378662109375,
+          'applicable' => true,
+        ),
+        9 => 
+        array (
+          'value' => 0.65000000000000002220446049250313080847263336181640625,
+          'applicable' => true,
+        ),
+      ),
+    ),
+    11 => 
+    array (
+      'dimensionValues' => 
+      array (
+        0 => 
+        array (
+          'value' => '20190721',
+          'applicable' => true,
+        ),
+      ),
+      'metricValues' => 
+      array (
+        0 => 
+        array (
+          'value' => 14587,
+          'applicable' => true,
+        ),
+        1 => 
+        array (
+          'value' => 88,
+          'applicable' => true,
+        ),
+        2 => 
+        array (
+          'value' => 14675,
+          'applicable' => true,
+        ),
+        3 => 
+        array (
+          'value' => 131,
+          'applicable' => true,
+        ),
+        4 => 
+        array (
+          'value' => 0,
+          'applicable' => true,
+        ),
+        5 => 
+        array (
+          'value' => 18,
+          'applicable' => true,
+        ),
+        6 => 
+        array (
+          'value' => 761,
+          'applicable' => true,
+        ),
+        7 => 
+        array (
+          'value' => 3,
+          'applicable' => true,
+        ),
+        8 => 
+        array (
+          'value' => 0.89000000000000001332267629550187848508358001708984375,
+          'applicable' => true,
+        ),
+        9 => 
+        array (
+          'value' => 0.39000000000000001332267629550187848508358001708984375,
+          'applicable' => true,
+        ),
+      ),
+    ),
+    12 => 
+    array (
+      'dimensionValues' => 
+      array (
+        0 => 
+        array (
+          'value' => '20190722',
+          'applicable' => true,
+        ),
+      ),
+      'metricValues' => 
+      array (
+        0 => 
+        array (
+          'value' => 10939,
+          'applicable' => true,
+        ),
+        1 => 
+        array (
+          'value' => 169,
+          'applicable' => true,
+        ),
+        2 => 
+        array (
+          'value' => 11108,
+          'applicable' => true,
+        ),
+        3 => 
+        array (
+          'value' => 87,
+          'applicable' => true,
+        ),
+        4 => 
+        array (
+          'value' => 0,
+          'applicable' => true,
+        ),
+        5 => 
+        array (
+          'value' => 37,
+          'applicable' => true,
+        ),
+        6 => 
+        array (
+          'value' => 618,
+          'applicable' => true,
+        ),
+        7 => 
+        array (
+          'value' => 3,
+          'applicable' => true,
+        ),
+        8 => 
+        array (
+          'value' => 0.7800000000000000266453525910037569701671600341796875,
+          'applicable' => true,
+        ),
+        9 => 
+        array (
+          'value' => 0.4899999999999999911182158029987476766109466552734375,
+          'applicable' => true,
+        ),
+      ),
+    ),
+    13 => 
+    array (
+      'dimensionValues' => 
+      array (
+        0 => 
+        array (
+          'value' => '20190723',
+          'applicable' => true,
+        ),
+      ),
+      'metricValues' => 
+      array (
+        0 => 
+        array (
+          'value' => 14430,
+          'applicable' => true,
+        ),
+        1 => 
+        array (
+          'value' => 0,
+          'applicable' => true,
+        ),
+        2 => 
+        array (
+          'value' => 14430,
+          'applicable' => true,
+        ),
+        3 => 
+        array (
+          'value' => 103,
+          'applicable' => true,
+        ),
+        4 => 
+        array (
+          'value' => 0,
+          'applicable' => true,
+        ),
+        5 => 
+        array (
+          'value' => 12,
+          'applicable' => true,
+        ),
+        6 => 
+        array (
+          'value' => 642,
+          'applicable' => true,
+        ),
+        7 => 
+        array (
+          'value' => 13,
+          'applicable' => true,
+        ),
+        8 => 
+        array (
+          'value' => 0.70999999999999996447286321199499070644378662109375,
+          'applicable' => true,
+        ),
+        9 => 
+        array (
+          'value' => 2.020000000000000017763568394002504646778106689453125,
+          'applicable' => true,
+        ),
+      ),
+    ),
+  ),
+  'dimensionMetadata' => NULL,
+  'startDate' => '2019-07-10T07:00:00.000Z',
+  'endDate' => '2019-07-24T06:59:59.999Z',
+  'lastUpdatedDate' => '2019-07-24T06:59:59.999Z',
+)
