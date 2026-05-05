@@ -8,30 +8,31 @@
     ],
     "license": "MIT",
     "require": {
-        "php": "^7.4",
-        "barryvdh/laravel-dompdf": "^0.8.5",
-        "cyber-duck/laravel-excel": "^1.2",
-        "dacastro4/laravel-gmail": "^2.0",
-        "fideloper/proxy": "^4.0",
-        "laravel/framework": "5.8.*",
-        "laravel/passport": "^7.0",
-        "laravel/tinker": "^1.0",
-        "nesbot/carbon": "^2.20",
+        "php": "^8.2",
+        "barryvdh/laravel-dompdf": "^3.0",
+        "laravel/framework": "^11.0",
+        "laravel/passport": "^12.0",
+        "laravel/tinker": "^2.9",
+        "laravel/ui": "^4.6",
+        "maatwebsite/excel": "^3.1",
+        "nesbot/carbon": "^3.0",
         "sunra/php-simple-html-dom-parser": "^1.5",
-        "yajra/laravel-datatables-oracle": "^9.4"
+        "yajra/laravel-datatables-oracle": "^11.0"
     },
     "require-dev": {
-        "beyondcode/laravel-dump-server": "^1.0",
-        "filp/whoops": "^2.0",
-        "fzaninotto/faker": "^1.4",
-        "mockery/mockery": "^1.0",
-        "nunomaduro/collision": "^3.0",
-        "phpunit/phpunit": "^7.5"
+        "fakerphp/faker": "^1.23",
+        "filp/whoops": "^2.15",
+        "mockery/mockery": "^1.6",
+        "nunomaduro/collision": "^8.0",
+        "phpunit/phpunit": "^11.0"
     },
     "config": {
         "optimize-autoloader": true,
         "preferred-install": "dist",
-        "sort-packages": true
+        "sort-packages": true,
+        "audit": {
+            "block-insecure": false
+        }
     },
     "extra": {
         "laravel": {
@@ -40,12 +41,10 @@
     },
     "autoload": {
         "psr-4": {
-            "App\\": "app/"
-        },
-        "classmap": [
-            "database/seeds",
-            "database/factories"
-        ]
+            "App\\": "app/",
+            "Database\\Factories\\": "database/factories/",
+            "Database\\Seeders\\": "database/seeders/"
+        }
     },
     "autoload-dev": {
         "psr-4": {
