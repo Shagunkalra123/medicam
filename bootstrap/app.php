@@ -14,7 +14,7 @@
 $app = new Illuminate\Foundation\Application(
     $_ENV['APP_BASE_PATH'] ?? dirname(__DIR__)
 );
-
+$app->usePublicPath(__DIR__ . '/../public_html');
 /*
 |--------------------------------------------------------------------------
 | Bind Important Interfaces
@@ -57,7 +57,4 @@ $app->singleton(
 |--------------------------------------------------------------------------
 */
 
-$app->bind('path.public', function () {
-    return base_path('public_html');
-});
 return $app;
